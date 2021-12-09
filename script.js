@@ -39,5 +39,5 @@ switch (randomQuote) {
     break;
 }
 
-// display your random quote
+// // display your random quote
 console.log(`Can you gues who say? \n${friendsQuote}`);
